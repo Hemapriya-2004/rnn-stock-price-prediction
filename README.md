@@ -13,7 +13,7 @@ We aim to build a RNN model to predict the stock prices of Google using the data
 
 60 Inputs with 60 Neurons in the RNN Layer (hidden) and one neuron for the Output Layer.
 
-![u1](https://github.com/Hemapriya-2004/rnn-stock-price-prediction/assets/94184828/b293ae6c-6394-4d39-9ef0-f5eb08605145)
+![u2](https://github.com/Hemapriya-2004/rnn-stock-price-prediction/assets/94184828/100f06f8-cfcd-4a0f-a8d1-ba8618905740)
 
 
 ## DESIGN STEPS
